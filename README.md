@@ -1,4 +1,4 @@
-# 📦 Streamlit App Starter Kit 
+# 📦 Chat with vAIra
 ```
 ⬆️ (Replace above with your app's name)
 ```
